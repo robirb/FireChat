@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "669118065892",
+    "firebase_url": "https://fir-integration-f384a.firebaseio.com",
+    "project_id": "fir-integration-f384a",
+    "storage_bucket": "fir-integration-f384a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669118065892:android:f1d4ab74167aca68",
+        "android_client_info": {
+          "package_name": "com.example.nlpc06.firebaseintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669118065892-06lo04iveu9ndr5caoutvibmlk4m4itg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nlpc06.firebaseintegration",
+            "certificate_hash": "fb5b2678fa32cfdf4f6223f4ad8e19d28d75d22a"
+          }
+        },
+        {
+          "client_id": "669118065892-6el62ef85h36sj8i64vppac10opri4e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADb3K_ZLIwA-X7_IF77dDyvAO5PbqEZtc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669118065892-6el62ef85h36sj8i64vppac10opri4e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669118065892:android:cef3924e396036f9",
+        "android_client_info": {
+          "package_name": "com.example.nlpc06.firechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669118065892-dbeuk7nv2q3elessk1tpac38rdk5vo0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nlpc06.firechat",
+            "certificate_hash": "fb5b2678fa32cfdf4f6223f4ad8e19d28d75d22a"
+          }
+        },
+        {
+          "client_id": "669118065892-6el62ef85h36sj8i64vppac10opri4e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADb3K_ZLIwA-X7_IF77dDyvAO5PbqEZtc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669118065892-6el62ef85h36sj8i64vppac10opri4e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
